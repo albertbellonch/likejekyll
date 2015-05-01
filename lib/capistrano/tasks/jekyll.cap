@@ -4,7 +4,7 @@ namespace :jekyll do
       within current_path do
         execute [
           "cd #{release_path}",
-          "rm -rf Capfile config lib",
+          "rm -rf Capfile config lib README.md REVISION",
           "jekyll build --config _config_production.yml"
         ].join(";")
       end
