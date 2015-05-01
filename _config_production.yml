@@ -16,4 +16,4 @@ assets:
   css_compressor: yui
 
 # Other
-mode: development
+mode: production
