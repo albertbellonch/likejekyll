@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'apercu_mono';
+    src: url('apercu_mono-webfont-webfont.eot');
+    src: url('apercu_mono-webfont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('apercu_mono-webfont-webfont.woff2') format('woff2'),
+         url('apercu_mono-webfont-webfont.woff') format('woff'),
+         url('apercu_mono-webfont-webfont.ttf') format('truetype'),
+         url('apercu_mono-webfont-webfont.svg#apercu_monoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
